@@ -1,6 +1,6 @@
 # 🚀 Real-Time Crypto Pipeline — API > Kafka > Spark > Dashboard
 
-**Author:** [Your Name]  
+**Author:** Zaineb Triki  
 **Course:** Real-Time Data Processing  
 **Stack:** Python · Apache Kafka · Apache Spark Structured Streaming · Streamlit
 
